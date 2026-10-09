@@ -8,3 +8,10 @@ Teste
 ###### Melhorias do projeto:
 
 __Melhoria 1__, _melhoria 2_
+
+### Linguagem do projeto
+
+* HTML
+* CSS
+* JAVASCRIPT
+* PHP
