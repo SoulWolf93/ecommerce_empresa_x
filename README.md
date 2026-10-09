@@ -31,3 +31,10 @@ __Melhoria 1__, _melhoria 2_
 #### Imgem externa
 
 ![Pokemon Gengar](https://static.wikia.nocookie.net/pokepediabr/images/0/02/Gengar_de_Ash.png/revision/latest/scale-to-width-down/250?cb=20211012194700&path-prefix=pt-br)
+
+## Links interessantes:
+
+[Google](https:/www.google.com)
+[https:/www.google.com](https:/www.google.com)
+
+https://github.com/SoulWolf93/ecommerce_empresa_x
