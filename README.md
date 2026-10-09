@@ -41,3 +41,12 @@ __Melhoria 1__, _melhoria 2_
 https://github.com/SoulWolf93/
 
 [![Logo do Gengar](https://static.wikia.nocookie.net/pokepediabr/images/0/02/Gengar_de_Ash.png/revision/latest/scale-to-width-down/250?cb=20211012194700&path-prefix=pt-br)](https://github.com/SoulWolf93/)
+
+## Código da função soma
+
+```javascript 
+function soma(a,b){
+    resp = a+b;
+    return resp;
+}
+```
